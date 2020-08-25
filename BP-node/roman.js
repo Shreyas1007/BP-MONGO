@@ -1,4 +1,4 @@
-function roman_conv(num){
+exports.RomanConv = function roman_conv(num){
 
     var romanToNum ={
      M:1000,
